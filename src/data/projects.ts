@@ -4,7 +4,7 @@ export const projects: Project[] = [
   // ===== WEB DEVELOPMENT PROJECTS (10) =====
   {
     id: 'web-1',
-    title: 'EcoShop - E-commerce Platform',
+    title: 'EcoShop - E-commsfgsrgrgertet5232erce Platform',
     description: 'A modern e-commerce platform with advanced filtering, payment integration, and inventory management.',
     fullDescription: 'EcoShop is a comprehensive e-commerce solution built for modern retail businesses. The platform features an intuitive product catalog with advanced filtering and search capabilities, integrated payment processing through Stripe, real-time inventory management, and a powerful admin dashboard. The system is designed to handle high traffic loads and provides seamless shopping experiences across all devices.',
     category: 'web',
